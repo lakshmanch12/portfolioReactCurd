@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "name": "laxmanchinna",
+      "Lastname": "r1233",
+      "Desgination": "weiywie",
+      "Email": "laxmanchinna5@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "ramoch",
+      "Lastname": "redich",
+      "Desgination": "sldjjsidj",
+      "Email": "laxmanchinna4935@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "laxman",
+      "Lastname": "roy",
+      "Email": "laxmanchinna495@gmail.com",
+      "Desgination": "trainee",
+      "id": 3
+    },
+    {
+      "name": "ch .",
+      "Lastname": "rory",
+      "Email": "ssjn@gmail.com",
+      "Desgination": "softeare",
+      "id": 4
+    }
+  ]
+}
